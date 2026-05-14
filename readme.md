@@ -9,4 +9,14 @@ netflix clone inside the Design UI/UX
 
 
 
-this my seacond website
+This my seacond website
+
+Tech Stack
+HTML5
+CSS
+
+Features
+Modern Dark UI
+Responsive Design
+Smooth Animations
+Service Showcase
