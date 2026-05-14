@@ -1,22 +1,39 @@
-# Design UI/UX
+# README.md
 
+Modern UI/UX website built using HTML, CSS, and JavaScript.
+Inspired by modern agency and portfolio designs with smooth animations and responsive layouts.
 
-netflix clone inside the Design UI/UX
+#Live Demo
 
-##   MY WEBSIRE Preview
+# Website
 
-![Website Preview](ui-capture-1778739117569.png)
+GitHub
 
+GitHub Repository
 
-
-This my seacond website
-
-Tech Stack
-HTML5
-CSS
-
-Features
-Modern Dark UI
+# Features
 Responsive Design
+Modern Dark UI
 Smooth Animations
-Service Showcase
+Interactive Sections
+Clean Layout
+Mobile Friendly
+
+# Tech Stack
+HTML5
+CSS3
+JavaScript
+
+# Run Locally
+git clone https://github.com/Shano124/design-ui-ux.git
+
+cd design-ui-ux
+
+Open index.html in your browser.
+
+## Deployment
+Netlify
+
+# License
+
+MIT License
